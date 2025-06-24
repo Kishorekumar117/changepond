@@ -1,3 +1,2 @@
-db_password=Changpond
 MAX_FILE_SIZE_MB=2
 ALLOWED_FILE_TYPES=["jpg", "png", "pdf"]
