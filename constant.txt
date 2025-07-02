@@ -1,2 +1,0 @@
-# File Upload Configuration
-MAX_UPLOAD_SIZE=5MB
