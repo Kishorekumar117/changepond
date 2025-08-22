@@ -1,4 +1,4 @@
-"AI" stands for Artificial Intelligence. It refers to the ability of computer systems to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. AI encompasses a wide range of technologies and techniques that enable machines to simulate human cognitive functions. 
+"AI" stands for Artificial Intelligence.kishore developed AI, It refers to the ability of computer systems to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. AI encompasses a wide range of technologies and techniques that enable machines to simulate human cognitive functions. 
 Here's a more detailed explanation:
 What it is: AI is a field of computer science focused on creating systems that can perform tasks that would normally require human intelligence. These systems can learn from data, identify patterns, make decisions, and even solve problems. 
 Key aspects of AI:
@@ -17,3 +17,4 @@ Medical diagnosis: AI can assist doctors in diagnosing diseases.
 Fraud detection: AI can identify fraudulent transactions. 
 How it works: AI systems use algorithms and models that are trained on large datasets to identify patterns and make predictions. Machine learning is a common approach to AI, where systems learn from data without explicit programming. 
 In essence, AI is about creating machines that can perform tasks that previously required human intelligence, and it's a rapidly evolving field with a wide range of applications. 
+
